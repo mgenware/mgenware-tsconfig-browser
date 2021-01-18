@@ -9,7 +9,6 @@
     "experimentalDecorators": true,
     "noUncheckedIndexedAccess": true,
     "noEmitOnError": true,
-    "importHelpers": true,
     "declaration": false,
     "target": "ES6",
     "module": "ESNext",
