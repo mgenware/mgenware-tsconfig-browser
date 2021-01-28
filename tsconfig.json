@@ -15,7 +15,7 @@
     "moduleResolution": "node",
     "allowSyntheticDefaultImports": true,
     "resolveJsonModule": true,
-    "lib": ["DOM", "DOM.Iterable", "es2019", "es2020.promise", "es2020.bigint", "es2020.string"],
+    "lib": ["DOM", "DOM.Iterable", "es2019", "es2020"],
     "newLine": "lf"
   }
 }
