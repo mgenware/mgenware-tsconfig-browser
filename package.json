@@ -1,16 +1,16 @@
 {
-  "name": "mgenware-tsconfig-web",
-  "version": "2.1.0",
-  "description": "An opinionated tsconfig for web projects",
+  "name": "mgenware-tsconfig-browser",
+  "version": "0.0.0",
+  "description": "An opinionated tsconfig for browser projects",
   "author": "Mgenware (https://github.com/mgenware)",
-  "homepage": "https://github.com/mgenware/mgenware-tsconfig-web",
-  "bugs": "https://github.com/mgenware/mgenware-tsconfig-web/issues",
+  "homepage": "https://github.com/mgenware/mgenware-tsconfig-browser",
+  "bugs": "https://github.com/mgenware/mgenware-tsconfig-browser/issues",
   "keywords": [
     "tsconfig"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/mgenware/mgenware-tsconfig-web"
+    "url": "https://github.com/mgenware/mgenware-tsconfig-browser"
   },
   "engines": {
     "node": ">=14.0.0"

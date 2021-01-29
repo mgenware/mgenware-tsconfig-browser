@@ -1,14 +1,14 @@
-# mgenware-tsconfig-web
+# mgenware-tsconfig-browser
 
-[![npm version](https://img.shields.io/npm/v/mgenware-tsconfig-web.svg?style=flat-square)](https://npmjs.com/package/mgenware-tsconfig-web)
-[![Node.js Version](http://img.shields.io/node/v/mgenware-tsconfig-web.svg?style=flat-square)](https://nodejs.org/en/)
+[![npm version](https://img.shields.io/npm/v/mgenware-tsconfig-browser.svg?style=flat-square)](https://npmjs.com/package/mgenware-tsconfig-browser)
+[![Node.js Version](http://img.shields.io/node/v/mgenware-tsconfig-browser.svg?style=flat-square)](https://nodejs.org/en/)
 
-An opinionated tsconfig for web projects.
+An opinionated tsconfig for browser projects.
 
 ## Installation
 
 ```sh
-yarn add mgenware-tsconfig-web -D
+yarn add mgenware-tsconfig-browser -D
 ```
 
 ## Usage
@@ -17,6 +17,6 @@ In your `tsconfig.json`:
 
 ```json
 {
-  "extends": "mgenware-tsconfig-web"
+  "extends": "mgenware-tsconfig-browser"
 }
 ```
