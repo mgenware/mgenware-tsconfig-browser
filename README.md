@@ -7,7 +7,7 @@ An opinionated tsconfig for browser projects.
 ## Installation
 
 ```sh
-yarn add mgenware-tsconfig-browser -D
+npm i -D mgenware-tsconfig-browser
 ```
 
 ## Usage
