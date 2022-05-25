@@ -1,3 +1,7 @@
+# Deprecated
+
+Use [mgenware-tsconfig-browser-x](https://github.com/mgenware/mgenware-tsconfig-browser-x).
+
 # mgenware-tsconfig-browser
 
 [![npm version](https://img.shields.io/npm/v/mgenware-tsconfig-browser.svg?style=flat-square)](https://npmjs.com/package/mgenware-tsconfig-browser)
