@@ -1,5 +1,5 @@
 {
-  "extends": "mgenware-tsconfig-node",
+  "extends": "mgenware-tsconfig-core",
   "compilerOptions": {
     "lib": ["DOM", "DOM.Iterable", "ESNext"]
   }
