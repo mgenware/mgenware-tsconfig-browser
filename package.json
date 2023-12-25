@@ -1,6 +1,6 @@
 {
   "name": "mgenware-tsconfig-browser",
-  "version": "14.1.0",
+  "version": "18.0.0",
   "description": "Opinionated `tsconfig` for browser projects",
   "author": "Mgenware (https://github.com/mgenware)",
   "homepage": "https://github.com/mgenware/mgenware-tsconfig-browser",
