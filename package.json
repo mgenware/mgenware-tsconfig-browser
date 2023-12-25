@@ -17,6 +17,6 @@
     "test": "node ./validate.js"
   },
   "dependencies": {
-    "mgenware-tsconfig-node": "^14.3.0"
+    "mgenware-tsconfig-core": "^18.0.0"
   }
 }
